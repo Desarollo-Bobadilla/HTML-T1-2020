@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    color: blanchedalmond;
+}
+
+
+.titulo {
+    text-align-last: center;
+    font-family: 'Sansita Swashed', cursive;
+}
+
+.discos {
+    color: darkolivegreen;
+    text-align-last: center;
+    font-weight: bold;
+}
+
+.lista {
+    text-align-last: center;
+}
+
+.imaginaria {
+    color: black;
+}
+
+p {
+    font-style: oblique;
+}
